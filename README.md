@@ -56,4 +56,4 @@ The result of this wrangling is the cleaned master data with 1946 rows and 13 co
 `twitter_archive_master.csv`. And this cleaned master data formed the basis for my analyses and visualizations.
 
 Warm Regards
-### Olamide Emida
+#### Olamide Emida
