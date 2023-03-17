@@ -55,5 +55,8 @@ I could not find. And lastly, I replaced the wrong names like a, an, just, and s
 The result of this wrangling is the cleaned master data with 1946 rows and 13 columns stored as a csv file named <br>
 `twitter_archive_master.csv`. And this cleaned master data formed the basis for my analyses and visualizations.
 
-Warm Regards
+## Feedback from Udacity reviewer
+View the feedback [here](https://drive.google.com/file/d/1X2kwGYhrl3jJHU9JBBboxYFl5NiimupN/view?usp=sharing)
+
+Warm Regards,
 #### Olamide Emida
