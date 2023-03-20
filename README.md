@@ -1,9 +1,11 @@
 # Wrangle-and-Analyze-Data-WeRateDogs
 
 ## Introduction
-WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs Brent."
+WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings  <br>
+almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10,  <br> 
+13/10, etc. Why? Because "they're good dogs Brent."
 
-**Udacity: Wrangle and Analyze data** <br>
+#### Udacity: Wrangle and Analyze data
 The goal is to wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. <br>
 The Twitter archive is great, but it only contains very basic tweet information. Additional gathering, then <br>
 assessing and cleaning is required for worthy analyses and visualizations.
